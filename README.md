@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- ✏️ I'm Computer Science student at Santa Cruz State University (UESC)<br>- 📚 I'm currently learning Mobile Development, using Flutter and React Native<br>- ⚡ I live in Bahia, Brazil</p>
+<p align="left">- ✏️ I'm a Computer Science student at Santa Cruz State University (UESC)<br>- 📚 I'm currently learning Mobile Development, using Flutter and React Native<br>- 📍 I live in Bahia, Brazil</p>
 
 ###
 
@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
+<!--
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -51,5 +52,10 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=etwatanabe&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+-->
+###
+
+<img src="https://raw.githubusercontent.com/etwatanabe/etwatanabe/output/snake.svg" alt="Snake animation" />
 
 ###
